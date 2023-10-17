@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OPA_SAS/1.0.0": {
+        "runtime": {
+          "OPA_SAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPA_SAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

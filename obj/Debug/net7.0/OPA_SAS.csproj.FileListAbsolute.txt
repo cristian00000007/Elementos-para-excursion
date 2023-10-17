@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\bin\Debug\net7.0\OPA_SAS.exe
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\bin\Debug\net7.0\OPA_SAS.deps.json
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\bin\Debug\net7.0\OPA_SAS.runtimeconfig.json
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\bin\Debug\net7.0\OPA_SAS.dll
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\bin\Debug\net7.0\OPA_SAS.pdb
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\OPA_SAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\OPA_SAS.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\OPA_SAS.AssemblyInfo.cs
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\OPA_SAS.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\OPA_SAS.dll
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\refint\OPA_SAS.dll
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\OPA_SAS.pdb
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\OPA_SAS.genruntimeconfig.cache
+C:\Users\HOME\Desktop\OPA SAS\OPA_SAS\obj\Debug\net7.0\ref\OPA_SAS.dll
